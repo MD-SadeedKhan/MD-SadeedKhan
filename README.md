@@ -1,8 +1,8 @@
 # Hi, I'm Sadeed! 👋
 
-🎓 I'm a student with a passion for data science and exploring new technologies.
+🎓 I'm a student with a passion for Data Science and exploring new technologies.
 
-🌱 Currently learning and growing my skills in data science, machine learning, and related fields.
+🌱 Currently learning and growing my skills in data science, Machine Learning, and related fields.
 
 🤝 Looking to collaborate on exciting data science projects and open-source contributions.
 
