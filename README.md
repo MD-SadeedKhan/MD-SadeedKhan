@@ -86,17 +86,8 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SadeedKhan4?theme=radical" alt="LeetCode Stats" width="480"/>
-</p>
-
-<p align="center">
   <img src="https://leetcard.jacoblin.cool/SadeedKhan4?theme=radical&font=UbuntuMono" alt="LeetCode Streak" width="480"/>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100" alt="Keep Solving"/>
-</p>
-
 
 
 ---
