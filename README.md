@@ -81,17 +81,22 @@
 ## 💻 LeetCode Profile
 
 <p align="center">
-  <strong>Sadeed Khan</strong><br>
-  LeetCode ID: <strong>SadeedKhan4</strong>
+  <strong>Sadeed Khan</strong> | LeetCode ID: <strong>SadeedKhan4</strong><br>
+  <em>Sharpening problem-solving skills one challenge at a time 🧩</em>
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=SadeedKhan4&theme=radical&hide_border=true" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/SadeedKhan4?theme=radical" alt="LeetCode Stats" width="480"/>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SadeedKhan4?theme=radical" alt="LeetCode Streak Card"/>
+  <img src="https://leetcard.jacoblin.cool/SadeedKhan4?theme=radical&font=UbuntuMono" alt="LeetCode Streak" width="480"/>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100" alt="Keep Solving"/>
+</p>
+
 
 
 ---
