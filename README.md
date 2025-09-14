@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=SadeedKhan4&theme=radical&hide_border=true" alt="LeetCode Stats"/>
+  <img src="https://leetcode-stats.vercel.app/api?username=Sadeed Khan&theme=radical&hide_border=true" alt="LeetCode Stats"/>
 </p>
 
 ---
