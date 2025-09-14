@@ -76,9 +76,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-SadeedKhan&theme=radical" alt="GitHub Streak"/>
 </p>
 
+---
+
+## 💻 LeetCode Profile
+
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=Sadeed Khan&theme=radical&hide_border=true" alt="LeetCode Stats"/>
+  <strong>Sadeed Khan</strong><br>
+  LeetCode ID: <strong>SadeedKhan4</strong>
 </p>
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=SadeedKhan4&theme=radical&hide_border=true" alt="LeetCode Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SadeedKhan4?theme=radical" alt="LeetCode Streak Card"/>
+</p>
+
 
 ---
 
