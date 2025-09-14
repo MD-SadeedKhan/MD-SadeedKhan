@@ -1,6 +1,6 @@
 <!--
   GitHub Profile README for Sadeed Khan
-  THE ULTIMATE DREAM PROFILE – recruiter-magnet, fully animated & interactive
+  THE ULTIMATE DREAM PROFILE – fully interactive, recruiter-friendly, visually stunning
 -->
 
 <p align="center">
@@ -23,10 +23,10 @@
   <a href="https://linkedin.com/in/sadeed-khan29" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/SadeedKhan42070?t=0s9--IQa97NAq0oRyzXGaw&s=08" target="_blank">
+  <a href="https://x.com/SadeedKhan42070" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/yooo_sadeed?igsh=MXBhcXNkZHpkYXU4cA==" target="_blank">
+  <a href="https://www.instagram.com/yooo_sadeed" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/SadeedKhan4/" target="_blank">
@@ -62,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub & LeetCode Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MD-SadeedKhan&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MD-SadeedKhan&theme=radical" alt="WakaTime Stats"/>
+  <img src="https://leetcode-stats.vercel.app/api?username=SadeedKhan4&theme=radical&hide_border=true" alt="LeetCode Stats"/>
 </p>
 
 ---
