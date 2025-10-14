@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-  <strong>Data Scientist | Frontend Developer | AI & ML Enthusiast | Problem Solver</strong>
+  <strong>Data Scientist | Applied Scientist | AI & ML Enthusiast | Problem Solver</strong>
 </p>
 
 <p align="center">
