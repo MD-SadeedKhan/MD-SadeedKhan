@@ -1,10 +1,10 @@
 <!--
   GitHub Profile README for Sadeed Khan
-  THE ULTIMATE DREAM PROFILE – fully interactive, recruiter-friendly, visually stunning
+  Positioning: Modern AI/ML Engineer | Builder of Production AI Systems
 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" alt="Waving Hand"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="110px" />
 </p>
 
 <h1 align="center">
@@ -12,71 +12,71 @@
 </h1>
 
 <p align="center">
-  <strong>Data Scientist | Applied Scientist | AI & ML Enthusiast | Problem Solver</strong>
+  <strong>AI/ML Engineer | Real-Time AI Systems | Computer Vision | GenAI (RAG) | MLOps | Cloud & Distributed Systems</strong>
 </p>
 
 <p align="center">
-  Transforming <strong>data into actionable insights</strong> and building <strong>AI-powered modern web applications</strong> with real-world impact.
+  I design and build <b>production-grade AI systems</b> that transform <b>raw data, video streams, and text</b> into <b>real-time intelligence</b> using <b>Computer Vision, Generative AI, and scalable cloud infrastructure</b>.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sadeed-khan29" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/SadeedKhan42070" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/yooo_sadeed" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/SadeedKhan4/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://github.com/MD-SadeedKhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/sadeed-khan29"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://x.com/SadeedKhan42070"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/></a>
+  <a href="https://www.instagram.com/yooo_sadeed"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+  <a href="https://leetcode.com/SadeedKhan4/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🚀 What I Do
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-6F42C1?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-4285F4?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-4B0082?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
+- Design **end-to-end AI pipelines** from raw data to deployed models  
+- Build **real-time computer vision** and **streaming AI systems**  
+- Create **LLM + RAG** based reasoning engines  
+- Deploy models using **cloud-native MLOps and Kubernetes**  
+- Convert research into **scalable, production-ready AI**
 
 ---
 
-## 📊 GitHub & LeetCode Stats
+## 🛠️ Core Skills & Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-SadeedKhan&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+### 🤖 AI & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-SadeedKhan&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-SadeedKhan&theme=radical" alt="GitHub Streak"/>
-</p>
+`Computer Vision · YOLOv8 · Deep Learning · PyTorch · TensorRT · Anomaly Detection · NLP · Transformers · LLMs · RAG`
 
 ---
+
+### ⚙️ Backend & Data Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,kafka" />
+</p>
+
+`FastAPI · Kafka · Redis · PostgreSQL · Vector Databases · Async APIs · Event-Driven Systems`
+
+---
+
+### ☁️ MLOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws" />
+</p>
+
+`Docker · Kubernetes · MLflow · DVC · CI/CD · GitHub Actions · AWS · Model Deployment · Monitoring`
+
+---
+
+### 📊 Data Engineering
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45"/>
+</p>
+
+`Streaming Pipelines · Feature Stores · SQL · ETL · Real-Time Analytics`
+
 
 ## 💻 LeetCode Profile
 
@@ -86,62 +86,42 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SadeedKhan4?theme=radical&font=UbuntuMono" alt="LeetCode Streak" width="480"/>
+  <img src="https://leetcard.jacoblin.cool/SadeedKhan4?theme=radical&font=UbuntuMono" width="480"/>
 </p>
-
 
 ---
 
 ## 🚀 Projects & Portfolio
 
 <div align="center">
-
-<a href="https://github.com/MD-SadeedKhan/AI-POWERED-RESUME-ANALYZER" target="_blank">
-  <img src="https://img.shields.io/badge/Resume%20Analyzer-Python%20%7C%20PyTorch%20%7C%20FAISS-blue?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-<a href="https://healora.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Healora-Node.js%20%7C%20React%20%7C%20MongoDB-green?style=for-the-badge&logo=node.js&logoColor=white"/>
-</a>
-<a href="https://github.com/MD-SadeedKhan/AI-Inventory-Optimizer" target="_blank">
-  <img src="https://img.shields.io/badge/Inventory%20Optimizer-Python%20%7C%20Prophet%20%7C%20RandomForest-orange?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-<a href="https://github.com/MD-SadeedKhan/Amazon-Retail-Analytics-Dashboard" target="_blank">
-  <img src="https://img.shields.io/badge/Amazon%20Dashboard-Python%20%7C%20SQL%20%7C%20PowerBI-red?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/MD-SadeedKhan/AI-POWERED-RESUME-ANALYZER">
+    <img src="https://img.shields.io/badge/Resume%20Analyzer-Python%20%7C%20PyTorch%20%7C%20FAISS-blue?style=for-the-badge&logo=python"/>
+  </a>
+  <a href="https://healora.vercel.app">
+    <img src="https://img.shields.io/badge/Healora-Node.js%20%7C%20React%20%7C%20MongoDB-green?style=for-the-badge&logo=node.js"/>
+  </a>
+  <a href="https://github.com/MD-SadeedKhan/AI-Inventory-Optimizer">
+    <img src="https://img.shields.io/badge/Inventory%20Optimizer-Python%20%7C%20ML-orange?style=for-the-badge&logo=python"/>
+  </a>
+  <a href="https://github.com/MD-SadeedKhan/Amazon-Retail-Analytics-Dashboard">
+    <img src="https://img.shields.io/badge/Amazon%20Dashboard-Python%20%7C%20SQL%20%7C%20PowerBI-red?style=for-the-badge&logo=powerbi"/>
+  </a>
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 🧠 Engineering Philosophy
 
-- Generative AI & LLMs 🤖  
-- Advanced NLP & Multimodal AI 🖼️  
-- Fullstack Development (React + Node.js) 🌐  
-- Cloud & DevOps (AWS, Docker, CI/CD) ☁️  
-- Data Visualization & Interactive Dashboards 📊  
+> I don’t just train models.  
+> I build **AI systems that operate in the real world.**
 
 ---
-
-## 😎 Fun Facts / Personality
-
-- Clean, maintainable, readable code is my mantra 🧹  
-- Passionate about data-driven problem solving 📈  
-- Love building interactive dashboards & AI apps 🚀  
-- Constantly exploring cutting-edge tech trends 🔍  
-
----
-
-## 👁️ Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MD-SadeedKhan&style=flat-square&color=blue" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=MD-SadeedKhan&style=flat-square&color=blue"/>
 </p>
-
----
-
-> “Data is the new oil, but insight is the engine that drives innovation.” – Sadeed Khan  
-
 <p align="center">
+
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="220" alt="Keep Coding"/>
+
 </p>
